@@ -1,7 +1,12 @@
-### 1. LangChain 0.3版本的图示
-![img.png](img.png)
+### 1. AI Agent
+![agent.png](agent.png)
 
-###  2. 为什么使用LangGraph
+![agent框架对比.png](agent框架对比.png)
+
+### 2. LangChain 0.3版本的图示
+![langGraph.png](langGraph.png)
+
+###  3. 为什么使用LangGraph
 1. 链（Chain）的局限性
 + 在LangChain中，链（Chain）是一种基本的构建块，用于将多个LLM（语言模型）调用和工具调用链接在一起。然而，链在处理复杂、动态的对话流程时存在一些局限性：
 
